@@ -1,5 +1,5 @@
 # Linear-Regressors
-A collection of different Linear Regression Algorithms
+A collection of different algorithms used for Linear Regression.
 
 ### Run
 
